@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cashFlowAuditor.Fragments.ProfessionFragment"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:paddingTop="10sp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50sp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/profession"
+            android:textColor="@color/black"
+            android:padding="@dimen/left_padding"
+            android:textSize="20sp"
+            android:id="@+id/lblProfession"/>
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:layout_toRightOf="@+id/lblProfession"
+            android:id="@+id/spinProfession"
+            android:theme="@style/Theme.AppCompat.Light"
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60sp"
+        android:paddingLeft="250sp"
+        android:paddingTop="10sp"
+        android:paddingRight="10sp"
+        >
+
+        <Button
+            android:layout_width="150sp"
+            android:layout_height="40sp"
+            android:background="@color/button_color"
+            android:text="@string/random"
+            android:id="@+id/btn_random"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60sp"
+        android:paddingLeft="250sp"
+        android:paddingTop="10sp"
+        android:paddingRight="10sp"
+        >
+
+        <Button
+            android:layout_width="150sp"
+            android:layout_height="40sp"
+            android:background="@color/button_color"
+            android:text="@string/reset"
+            android:id="@+id/btn_reset"/>
+    </RelativeLayout>
+
+
+</LinearLayout>

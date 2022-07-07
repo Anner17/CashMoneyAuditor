@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cashFlowAuditor.Fragments.ExpensesFragment"
+    android:background="@color/white">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60sp"
+        android:id="@+id/expense_profession"
+        android:textColor="@color/black"
+        android:textSize="@dimen/profession_title_size"
+        android:gravity="center_horizontal"
+        android:paddingTop="5sp"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/expenses_list_view"
+        android:layout_below="@id/expense_profession"/>
+
+</RelativeLayout>

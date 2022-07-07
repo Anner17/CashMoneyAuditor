@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cashFlowAuditor.Fragments.ResumeFragment"
+    android:background="@color/white"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/resume_profession"
+        android:textColor="@color/black"
+        android:textSize="@dimen/profession_title_size"
+        android:gravity="center_horizontal"
+        android:paddingTop="5sp"/>
+
+    <ListView
+        android:id="@+id/resume_list"
+        android:layout_width="match_parent"
+        android:layout_height="300sp"
+        android:layout_below="@id/resume_profession" />
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:background="@color/white"
+        android:layout_below="@+id/resume_list"
+        android:id="@+id/advance">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/description_text"
+            android:text="@string/advance"
+            android:layout_weight="1"
+            android:textColor="@color/black"
+            android:paddingLeft="@dimen/left_padding"
+            android:paddingBottom="@dimen/bottom_padding"
+            android:paddingTop="@dimen/top_padding"
+            android:textSize="@dimen/text_size"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/advance_value"
+            android:layout_weight="1"
+            android:textColor="@color/black"
+            android:paddingLeft="@dimen/left_padding"
+            android:paddingBottom="@dimen/bottom_padding"
+            android:paddingTop="@dimen/top_padding"
+            android:textSize="@dimen/text_size"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40sp"
+        android:layout_below="@+id/advance"
+        android:id="@+id/control_loan"
+        android:layout_marginTop="10sp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/loan"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size"
+            android:layout_weight="1"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:id="@+id/loan_value"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/assets_business_list"
+            android:layout_weight="1">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="40sp"
+                android:background="@color/red"
+                android:text="-"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:id="@+id/rest_debt"
+                android:layout_weight="1"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="40sp"
+                android:background="@color/green"
+                android:text="+"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:id="@+id/sum_debt"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40sp"
+        android:layout_below="@+id/control_loan"
+        android:layout_marginTop="10sp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/child"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size"
+            android:layout_weight="1"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:id="@+id/child_count"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/assets_business_list"
+            android:layout_weight="1">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="40sp"
+                android:background="@color/red"
+                android:text="-"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:id="@+id/rest_child"
+                android:layout_weight="1"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="40sp"
+                android:background="@color/green"
+                android:text="+"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:id="@+id/sum_child"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

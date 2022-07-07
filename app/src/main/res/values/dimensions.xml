@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_padding">12sp</dimen>
+    <dimen name="left_padding">12sp</dimen>
+    <dimen name="right_padding">12sp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="top_padding">12sp</dimen>
+    <dimen name="profession_title_size">20sp</dimen>
+    <dimen name="asset_list_height">180sp</dimen>
+</resources>

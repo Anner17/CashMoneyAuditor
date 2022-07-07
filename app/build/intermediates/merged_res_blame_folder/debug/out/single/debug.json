@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_cashflow_background.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\drawable\\ic_cashflow_background.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_liabilities.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\layout\\fragment_liabilities.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_create_business.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\layout\\dialog_create_business.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\menu_menu.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\layout_listview_description_item.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\layout\\listview_description_item.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_expenses.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\layout\\fragment_expenses.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_resume.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\layout\\fragment_resume.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_debt.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\layout\\dialog_debt.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_cashflow.png.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_cashflow.png"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbar.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_cashflow.png.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_cashflow.png"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_cashflow.png.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-xhdpi\\ic_cashflow.png"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_stock.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\layout\\fragment_stock.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_income.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\layout\\fragment_income.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_cashflow.png.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-mdpi\\ic_cashflow.png"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\layout_spinner_dropdown.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\layout\\spinner_dropdown.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_create_stock.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\layout\\dialog_create_stock.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\layout_item_assets.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\layout\\item_assets.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\menu_liabilities_menu.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\menu\\liabilities_menu.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_cashflow.png.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-hdpi\\ic_cashflow.png"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_business.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\layout\\fragment_business.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\layout_spinner_item.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_profession.xml.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\layout\\fragment_profession.xml"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Andres\\AndroidProjects\\CashFlow\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
